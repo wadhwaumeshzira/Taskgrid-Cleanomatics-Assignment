@@ -408,7 +408,7 @@ The collection includes:
 
 Watch the 1-minute demo video below to see the UI animations, hover effects, and full CRUD functionality in action:
 
-<video src="https://github.com/wadhwaumeshzira/Taskgrid-Cleanomatics-Assignment/blob/main/demo.mp4?raw=true" controls="controls" width="100%"></video>
+👉 [**Click here to watch the Demo Video**](https://github.com/wadhwaumeshzira/Taskgrid-Cleanomatics-Assignment/blob/main/demo.mp4) 🎥
 
 ---
 
